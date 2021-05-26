@@ -1,6 +1,11 @@
 # dashboard
 
-A new Flutter project.
+Simple flutter UI project
+
+<p float="left">
+  <img src="https://github.com/gouthamsrikar/dashboard_web_UI/blob/master/2021-05-27.png"  />
+  
+</p>
 
 ## Getting Started
 
